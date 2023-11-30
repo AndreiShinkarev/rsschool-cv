@@ -19,3 +19,11 @@ I have a dream today ...
 * SQL
 * Git, GitHub
 * Figma
+
+## Code Example
+```JavaScript
+let sum = (a, b) => {
+  let result = a + b;
+  return result;
+};
+```
