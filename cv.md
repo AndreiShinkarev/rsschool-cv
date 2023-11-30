@@ -34,3 +34,6 @@ let sum = (a, b) => {
     * Bachelor of Engineering
 * __Stavropol State Agrarian University__
     * Postgraduate diploma in Web Development
+
+## English
+__A2__ (Elementary English)
