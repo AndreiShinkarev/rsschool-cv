@@ -11,3 +11,11 @@ I have a dream that one day my code will work for the benefit of the World.\
 I have a dream that one day even Russia, a country sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.\
 I have a dream that I will become a web developer and make the world a better place.\
 I have a dream today ...
+
+## Skills
+* HTML, CSS/SCSS, JS
+* Python, Django
+* PHP 8.0
+* SQL
+* Git, GitHub
+* Figma
