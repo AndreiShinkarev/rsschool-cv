@@ -28,3 +28,9 @@ let sum = (a, b) => {
 };
 ```
 ## Experience
+
+## Education
+* __North-Caucasus Federal University__
+    * Bachelor of Engineering
+* __Stavropol State Agrarian University__
+    * Postgraduate diploma in Web Development
